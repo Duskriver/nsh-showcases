@@ -1,0 +1,20 @@
+{
+  "id": "zniff",
+  "name": "zniff",
+  "author": "vicanso",
+  "description": "An HTTP(S) debugging proxy with a native Rust GUI and WebAssembly console. Inspect traffic, rewrite requests and responses, pause flows at breakpoints, visualize timing, and connect AI tools through a built-in MCP server.",
+  "category": "dev",
+  "platforms": [
+    "macOS",
+    "Windows",
+    "Linux",
+    "Web"
+  ],
+  "website": "https://zniff.vicanso.dev/",
+  "source": "https://github.com/vicanso/zniff",
+  "publishedAt": "2026-11-16T22:50:00+08:00",
+  "previews": [
+    "preview0.png",
+    "preview1.png"
+  ]
+}
