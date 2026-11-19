@@ -1,0 +1,23 @@
+{
+  "id": "sonde",
+  "name": "sonde",
+  "author": "hxddh",
+  "description": "See what your software does to S3. sonde records a program's object-storage requests and reads them as operations (Iceberg commits, multipart uploads, retries), finds costly patterns with fixes, and tests whether the program survives store faults.",
+  "category": "dev",
+  "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+  ],
+  "website": "https://github.com/hxddh/sonde",
+  "source": "https://github.com/hxddh/sonde",
+  "publishedAt": "2026-11-19T00:00:00+08:00",
+  "previews": [
+    "preview0.png",
+    "preview1.png",
+    "preview2.png",
+    "preview3.png"
+  ],
+  "stars": 1,
+  "starsUpdatedAt": "2026-11-19T10:40:00.000Z"
+}
