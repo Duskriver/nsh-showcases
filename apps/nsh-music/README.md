@@ -17,4 +17,4 @@ nsh-music is a lightweight, native NetEase Cloud Music client built with Native 
 
 ## Learn More
 
-Visit the [nsh-music website](https://duskriver.github.io/nsh-music/) or explore the [source repository](https://github.com/Duskriver/nsh-music).
+Explore the [nsh-music repository](https://github.com/Duskriver/nsh-music) for project details and source code.
